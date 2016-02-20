@@ -1,0 +1,38 @@
+header h1{
+  font-family: courier;
+  text-align: center;
+  top-margin: 10px;
+  
+
+}
+
+header nav{
+  font-family: courier;
+  text-align: center;
+  font-size: 20px;
+}
+
+header nav li{
+  display: inline;
+  padding: 10px;
+
+}
+
+header nav a{
+  text-decoration: none;
+  color: black;
+}
+
+header nav a:hover{
+  color:pink;
+  font-weight: bold;
+}
+
+div{
+  height: 200px;
+  width: 300px;
+  margin-top: 300px;
+  margin-left: 575px;
+  text-align: center;
+  
+}
